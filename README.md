@@ -1,4 +1,4 @@
-## Coursera-Data-Structures-and-Algorithms
+# Coursera-Data-Structures-and-Algorithms
 This Repository contain all the practice programs and assignments of this course.
 
 ## Description
